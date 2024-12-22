@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to EazyBank cards related QA APIs - test with update properties without reload"
+  message: "Welcome to EazyBank cards related QA APIs (RMQ)"
   contactDetails:
     name: "Smitgh Ray - QA Lead"
     email: "ray@eazybank.com"
