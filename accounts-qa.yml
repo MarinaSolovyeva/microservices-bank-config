@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related QA APIs (RMQ) - test webhook"
+  message: "Welcome to EazyBank accounts related QA APIs (RMQ) - test2 webhook"
   contactDetails:
     name: "Smitgh Ray - QA Lead"
     email: "ray@eazybank.com"
