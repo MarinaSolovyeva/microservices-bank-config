@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related Prod APIs - test3 webhook"
+  message: "Welcome to EazyBank accounts related Prod APIs - test4 webhook"
   contactDetails:
     name: "Soloveva Marina - Team Lead"
     email: "{cipher}223d6d607e7c92e81a7cdb19aa339eb8c5b673cdd34929cde4d4a5a6107eb49ffc47abfaf9b9954fa7afdcd7d31a9af9"
